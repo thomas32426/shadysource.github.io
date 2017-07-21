@@ -33,7 +33,7 @@ var channelBlk = "#0a0807";
 var curColor = buoyRed;
 var image;
 var curImgURL = "";
-var imageURLFile = "https://raw.githubusercontent.com/shadySource/DATA/master/url.txt";
+var imageURLFile = "https://raw.githubusercontent.com/thomas32426/DATA/master/url.txt";
 var imageURLs = new Array();
 var dataset = 0;
 var imageIdx = 0;
