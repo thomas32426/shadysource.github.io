@@ -26,7 +26,7 @@ var octogonBlk = "#0a0807";
 var curColor = buoyRed;
 var image;
 var curImgURL = "";
-var imageURLFile = "https://raw.githubusercontent.com/shadySource/DATA/master/underwater/url.txt";
+var imageURLFile = "https://raw.githubusercontent.com/thomas32426/DATA/master/underwater/url.txt";
 var imageURLs = new Array();
 var imageSet = false;
 
@@ -151,7 +151,7 @@ $("#emailButton").click(function(){
     var name = $('#nameBox').val();
     if (name == "")
         name = "AnonymousUser";
-    document.location = "mailto:shadysourcebot@gmail.com"+"?subject="+"DATA"+"&body="+"Hello shadySource Bot,\n\nI have a contribution to make!!\n\nsincerely\n"+name;
+    document.location = "mailto:thomas32426bot@gmail.com"+"?subject="+"DATA"+"&body="+"Hello thomas32426 Bot,\n\nI have a contribution to make!!\n\nsincerely\n"+name;
     //seriously, I did this for science. dont be a dick.
 });
 
